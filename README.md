@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sanjiv Tamang</h1>
 <h3 align="center">A Passionate Computer Science Student From Nepal.</h3>
-<img align ="right" alt="AI" width="410" src="https://thumbs.gfycat.com/LightheartedComplexHake-size_restricted.gif">
+<img align ="right" alt="AI" width="420" src="https://thumbs.gfycat.com/LightheartedComplexHake-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjiv11&label=Profile%20views&color=0e75b6&style=flat" alt="sanjiv11" /> </p>
 
 - 📫 Hw to reach me **sanjivtamangofficial@yahoo.com**
