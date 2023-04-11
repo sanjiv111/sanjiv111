@@ -1,4 +1,4 @@
-![logo](https://github.com/sanjiv111/sanjiv111/blob/main/52688121607_bcce2a690e_o.jpg)
+
 
 
 <h1 align="center">Hi 👋, I'm Sanjiv Tamang</h1>
